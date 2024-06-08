@@ -3,7 +3,7 @@ This project is a hotel management system implemented in C++ using object-orient
 
 ## Features:
 
-- ##Room Management##: Easily add, remove, and update rooms with details such as room type, availability, and price.
+- *Room Management*: Easily add, remove, and update rooms with details such as room type, availability, and price.
 - *Guest Management*: Register guests, manage their information, and track their bookings and check-in/check-out status.
 - *Booking Management*: Efficiently handle room bookings, including availability checks, booking confirmations, and cancellations.
 - *Billing*: Automatically generate invoices for guests based on their bookings and additional services they availed during their stay.
