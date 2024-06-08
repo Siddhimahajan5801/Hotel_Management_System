@@ -1,6 +1,8 @@
 # Hotel_Management_System
 This project is a hotel management system implemented in C++ using object-oriented programming principles. The system provides functionalities for managing hotel operations such as booking rooms, checking in/out guests, managing room availability, and generating invoices.
 
+![WhatsApp Image 2024-06-08 at 8 51 15 PM](https://github.com/Siddhimahajan5801/Hotel_Management_System/assets/110876496/69acc9e7-b894-461d-9963-2d7d229bdd1f)
+
 ## Features:
 
 - *Room Management*: Easily add, remove, and update rooms with details such as room type, availability, and price.
